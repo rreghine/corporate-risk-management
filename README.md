@@ -9,7 +9,7 @@
 ![ISO](https://img.shields.io/badge/Norma-ISO_31000-green?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)
 
-Sistema completo de **gestão de riscos corporativos orientado a dados** - captura estruturada de dados até modelos preditivos de ML entregues via Power BI.
+Sistema completo de **gestão de riscos corporativos orientado a dados** - captura estruturada de dados até modelos preditivos de Machine Learning entregues via Power BI.
 
 ---
 
