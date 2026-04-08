@@ -1,4 +1,4 @@
-# 🛡️ Corporate Risk Management System
+# Corporate Risk Management System
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?style=flat-square)
 ![XGBoost](https://img.shields.io/badge/XGBoost-Classifier-orange?style=flat-square)
