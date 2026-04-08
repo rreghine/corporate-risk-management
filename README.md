@@ -5,8 +5,6 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-yellow?style=flat-square)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-Lakehouse-purple?style=flat-square)
 ![Azure](https://img.shields.io/badge/Azure_Forms-Captura-blue?style=flat-square)
-![COSO](https://img.shields.io/badge/Framework-COSO_ERM-blue?style=flat-square)
-![ISO](https://img.shields.io/badge/Norma-ISO_31000-green?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)
 
 Sistema completo de **gestão de riscos corporativos orientado a dados** - captura estruturada de dados até modelos preditivos de Machine Learning entregues via Power BI.
